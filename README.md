@@ -59,7 +59,7 @@ Here is a preview of the Cravers interface:
 src/
 ├── main/
 │   ├── java/
-│   │   └── com.example.foodfrenzy/
+│   │   └── com.example.Cravers/
 │   │       ├── controller/      # Contains all controllers
 │   │       ├── model/           # Contains entity classes
 │   │       ├── repository/      # Repository interfaces for database interaction
